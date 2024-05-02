@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #l= 'my name is {} and i live in {}'
+=======
+# l= 'my name is {} and i live in {}'
+>>>>>>> 903c456 (practice sheet)
 # n,c='navneet','india'
 # print(l.format(n,c))
 
@@ -14,6 +18,12 @@
 # print(f"my name is {n} and i live in {c}")
 
 #-------------------------
+<<<<<<< HEAD
 price =49.433242
 txt =f'for only(price:.2f) dollars'
 print(txt)
+=======
+# price =49.433242
+# txt =f'for only(price:.2f) dollars'
+# print(txt)
+>>>>>>> 903c456 (practice sheet)
