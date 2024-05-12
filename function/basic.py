@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 def is_even(num):     # function creation 
     '''
     this funcn will tell that a number is even or odd
@@ -22,3 +23,18 @@ for i in range (1,11):  # function call
 print(is_even('hello'))
 
 
+=======
+def is_even(num):
+    '''
+    this funcn will tell that a number is even or odd
+    input - valid int
+    out - even/odd
+    '''
+    if  num%2==0 :
+        return 'even'
+    else:
+        return 'odd'
+for i in range (1,11):
+    x = is_even(i)
+    print(x)
+>>>>>>> c278aed (Python)
